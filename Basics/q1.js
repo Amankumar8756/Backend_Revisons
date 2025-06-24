@@ -6,3 +6,5 @@ fs.writeFileSync("hello.txt", "code by aman");
 
 console.log("-->>",__dirname);
 
+console.log("-->>",__filename);
+
