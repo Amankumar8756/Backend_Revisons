@@ -1,0 +1,23 @@
+{
+  "name": "backend_revision",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Amankumar8756/Backend_Revisons#readme",
+  "bugs": {
+    "url": "https://github.com/Amankumar8756/Backend_Revisons/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amankumar8756/Backend_Revisons.git"
+  },
+  "license": "ISC",
+  "author": "amankumar",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run"
+  },
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
